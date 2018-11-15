@@ -1,0 +1,6 @@
+C:\work\MobilePay\MobilePay\bin\Debug\MobilePay.exe.config
+C:\work\MobilePay\MobilePay\obj\Debug\MobilePay.csprojResolveAssemblyReference.cache
+C:\work\MobilePay\MobilePay\bin\Debug\MobilePay.exe
+C:\work\MobilePay\MobilePay\bin\Debug\MobilePay.pdb
+C:\work\MobilePay\MobilePay\obj\Debug\MobilePay.exe
+C:\work\MobilePay\MobilePay\obj\Debug\MobilePay.pdb
